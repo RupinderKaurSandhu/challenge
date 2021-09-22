@@ -4,9 +4,8 @@
   "description": "coding challenge",
   "main": "./src/index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./src/index.js"
   },
-  "proxy": "http://localhost:4000",
   "author": "walmex-team",
   "license": "ISC",
   "dependencies": {
@@ -14,4 +13,3 @@
     "lodash": "^4.17.21"
   }
 }
-
